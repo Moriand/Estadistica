@@ -1,4 +1,4 @@
-# Libro de levin capitulo 8
+# Libro de levin(Estadistica para Administracion) capitulo 8
 ## Ejercicio 8.2
 > ds = 5, n = 49, x = 26.8, mu = 28
 
