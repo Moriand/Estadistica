@@ -16,6 +16,6 @@ Donde:
  
  ## Ejemplo
  
- Solamente calcula para una muestra, supongamos que sigma = 9.8
+ Solamente calcula para una publación, supongamos que sigma = 9.8
  
  `z.test(x,sd = sigma)`
