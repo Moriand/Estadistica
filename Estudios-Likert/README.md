@@ -9,6 +9,10 @@ Para preguntas dicotomicas usar
 **keller
 
 
+# confiabilidad para otras
+
 Para otras(no likert)
 
-alfa de crownbach
+alfa de crownbach [VER PDF](https://iris.paho.org/bitstream/handle/10665.2/34939/v42e652018.pdf?sequence=1&isAllowed=y)
+
+
