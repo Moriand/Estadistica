@@ -7,3 +7,8 @@ si es ordinal como el caso de likert, usar
 
 Para preguntas dicotomicas usar
 **keller
+
+
+Para otras(no likert)
+
+alfa de crownbach
