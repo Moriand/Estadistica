@@ -1,4 +1,4 @@
-# Confiabilidad y Validez
+# Confiabilidad y Validez [VER VIDEO](https://www.youtube.com/watch?v=YOSnRpz_C_I)
 
 ## confiabilidad
 
@@ -14,5 +14,6 @@ Para preguntas dicotomicas usar
 Para otras(no likert)
 
 alfa de crownbach [VER PDF](https://iris.paho.org/bitstream/handle/10665.2/34939/v42e652018.pdf?sequence=1&isAllowed=y)
+usa correlaciones de pearson en variables cuantitativas.
 
 
