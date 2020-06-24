@@ -2,8 +2,10 @@
 
 ## confiabilidad
 
-si es ordinal como el caso de likert, usar
-**alfa ordinal**
+si es ordinal como el caso de likert(1,2,3,4,5 ), usar
+**alfa ordinal**   
+
+*Policórica correlación*
 
 Para preguntas dicotomicas usar
 **keller
